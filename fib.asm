@@ -1,9 +1,9 @@
-;*****************************
+;************************************************************
 ;	Nerys Jimenez Pichardo
 ;	The College of Saint Rose
 ;	Spring 2016
-;	CSC 332: Fibonacci Series
-;******************************
+;	Microcomputer Architecture: Fibonacci Series
+;*************************************************************
 ;--------------------------------------------------------------------------
 stacksg segment para stack 'Stack'	
 	db	32 dup (0)		
